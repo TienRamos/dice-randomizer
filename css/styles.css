@@ -168,3 +168,13 @@ img {
   text-align: center;
   background: #333B4B;
 } */
+
+/*********** MEDIA QUERY ***********/
+@media (max-width: 665px) {
+  .dice-number {
+    text-align: center;
+  }
+  .number-circle {
+    margin: 1% 2% 0;
+  }
+}
