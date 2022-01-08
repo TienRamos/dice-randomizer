@@ -170,7 +170,7 @@ img {
 } */
 
 /*********** MEDIA QUERY ***********/
-@media (max-width: 665px) {
+@media (max-width: 700px) {
   .dice-number {
     text-align: center;
   }
