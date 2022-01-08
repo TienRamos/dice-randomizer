@@ -103,7 +103,8 @@ body {
 }
 
 img {
-  width: 170px;
+
+  max-width: 150px;
 }
 
 .dice-display-1 {
@@ -159,11 +160,11 @@ img {
 
 /*********** FOOTER ***********/
 
-#footer {
+/* #footer {
   flex-shrink: 0;
   height: 2rem;
   padding-top: 10px;
   color: azure;
   text-align: center;
   background: #333B4B;
-}
+} */
